@@ -1,4 +1,4 @@
-# Pyrogram Playbot
+# Pyrogram Bot Template
 
 A good template for Pyrogram based bot projects (with asynchronous HTTP server and plugins support)
 
